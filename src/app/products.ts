@@ -28,6 +28,11 @@ export const products = [
     name: "Phone 11 Pro Max",
     price: 2099,
     description: "The best 11th gen"
+  },
+  {
+    name: "Phone 12 Pro Max",
+    price: 2299,
+    description: ""
   }
 ];
 
